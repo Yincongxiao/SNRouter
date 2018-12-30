@@ -33,4 +33,13 @@ NSURL *url = [NSURL URLWithString:@"router://demo/Peoples?count=100"];
 }
 ```
 
+#### Installation
+There are two ways to use SDRouter in your project:
 
+* using CocoaPods
+
+```
+    pod 'SDRouter'
+```
+
+* by cloning the project into your repository
